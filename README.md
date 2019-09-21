@@ -42,7 +42,7 @@ Hackathon 2019 project partnered with the Neil Squire Society to use the LipSync
     * Move LipSync joystick down to stop RC car
 	
 ## Hardware Setup
-The schematics for the projectcan be found on <a href="https://upverter.com/eda/embed/#designId=63d9d49c4f5af5d4">Upverter</a>.
+The schematics for the project can be found on <a href="https://upverter.com/eda/embed/#designId=63d9d49c4f5af5d4">Upverter</a>.
 
 
 
