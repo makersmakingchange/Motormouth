@@ -15,7 +15,7 @@ Hackathon 2019 project partnered with the Neil Squire Society to use the LipSync
 ## Building
 1.  Build and deploy the modified LipSync Arduino sketch
     * Connect LipSync to PC via USB
-	* Enter Software sub-directory
+    * Enter the Software sub-directory
     * Open LipSync_Motormouth_Firmware/LipSync_Motormouth_Firmware.ino in Arduino IDE
     * Configure COM port if necessary
     * Upload sketch to LipSync
