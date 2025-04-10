@@ -48,3 +48,7 @@ The schematics for the project can be found on <a href="https://upverter.com/eda
 
 ## Known Issues
 *   Sometimes, the Motormouth module fails to connect to the LipSync joystick.  Other times, the link between the two seems to be broken and commands stopped being received.  These problems may be resolved by power cycling Motormouth's Bluetooth module.  The root causes of these issues are not known.
+
+<!-- ABOUT MMC START -->
+
+<!-- ABOUT MMC END -->
